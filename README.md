@@ -1,6 +1,6 @@
-# Small Kernal
+# Small Kernel
 
-Processes can ask kernal to add data or remove data from disk. The kernal is a process too but act as kernal and the same for the disk. The disk has 10 slots only to carry data. Each process has file contain tasks for it. Processes and kernal Communicate using Message queue and the same for kernal with disk.
+Processes can ask kernel to add data or remove data from disk. The kernel is a process too but act as kernel and the same for the disk. The disk has 10 slots only to carry data. Each process has file contain tasks for it. Processes and kernel Communicate using Message queue and the same for kernel with disk.
 
 ### How to run
 	- Run "make" in repo directory.
