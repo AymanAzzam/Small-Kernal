@@ -14,4 +14,4 @@ Processes can ask kernel to add data or remove data from disk. The kernel is a p
 
 3. [Ayman Abd-Elnaby](https://github.com/AymanAbdelnaby).
 
-4. Kareem Osama.
+4. [Kareem Osama](https://github.com/KareemOsamaSobeih).
